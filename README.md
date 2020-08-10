@@ -1,5 +1,5 @@
 ### Progress
-frontend complete.
+front-end complete.
 creating server now.
 
 
