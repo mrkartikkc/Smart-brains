@@ -4,10 +4,10 @@ Connected Back-end server to the front-end. <br />
 Creating Database now..
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
 In the project directory, you can run:
 
 ### `npm start`
