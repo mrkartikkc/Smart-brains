@@ -1,7 +1,7 @@
 ### Progress =>
-Front-end complete.<br />
-Connected Back-end server to the front-end. <br />
-Starting Database section now.
+Front-end complete.<br />👌
+Connected Back-end server to the front-end. <br />👌
+Starting Database section now.🤷‍♂️
 
 
 
