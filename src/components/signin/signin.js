@@ -31,6 +31,7 @@ class signin extends React.Component {
       if(user.id) {
         this.props.loadUser(user);
         this.props.onRouteChange('home');
+        
       }
     })
    
