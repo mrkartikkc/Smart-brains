@@ -25,7 +25,7 @@ class register extends React.Component {
   onSubmitSignin = () => {
     fetch('https://evening-falls-26915.herokuapp.com/register', {
       method: 'post',
-      headers: {'content-type': 'application/json'},
+      headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
         email: this.state.email,
         password: this.state.password,
@@ -88,7 +88,6 @@ class register extends React.Component {
               className="b ph3 pv2 input-reset ba shadow-2 b--white br-pill bg-white grow pointer f6 dib" 
               type="submit" 
               value="Register"
-                
             />
           </div>
           <div className="lh-copy mt3">
