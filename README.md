@@ -1,7 +1,5 @@
-### Progress =>
+# Completed.
 https://facialrecog420k.herokuapp.com/ <br/>
-
-
 
 ## Available Scripts
 
