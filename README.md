@@ -1,5 +1,5 @@
 # Completed.
-https://facialrecog420k.herokuapp.com/ <br/>
+https://facialrecog420k.herokuapp.com/
 
 ## Available Scripts
 
