@@ -1,5 +1,5 @@
 # Completed.
-Here you can check out the webapp => 
+Here you can check out the webapp :
 https://facialrecog420k.herokuapp.com/
 
 
